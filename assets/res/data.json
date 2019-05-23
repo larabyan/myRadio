@@ -1,0 +1,193 @@
+[
+
+  {
+    "id": "1",
+    "name": "Audiophile Rock-Blues",
+    "stream": "http://78.129.163.82:38576/;",
+    "category": 0,
+    "Genre":"blues, hard rock "
+
+  },
+  { "id": "2",
+    "name": "DJ KOKO",
+    "stream": "http://149.56.147.197:9538/;stream/1",
+    "category": 0,
+    "Genre":"latin"
+  },
+  {
+    "id": "3",
+    "name": "Rainbow Sound UK",
+    "stream": "http://uk5.internet-radio.com:8163/;stream",
+    "category": 0,
+    "Genre":"easy listening "
+  },
+  {
+    "id": "4",
+    "name": "DI Radio Digital Impulse - Techno Radio Player",
+    "stream": "http://5.39.71.159:8938/;stream/1",
+    "category": 0,
+    "Genre":"techno"
+  },
+  {
+    "id": "5",
+    "name": "BollywoodBio Music",
+    "stream": "http://94.23.252.14:8104/;stream/1",
+    "category": 0,
+    "Genre":"bollywood"
+  },
+  {
+    "id": "6",
+    "name": "HouseHold Radio (CHILLED)",
+    "stream": "http://87.98.130.255:8612/;stream/1",
+    "category": 0,
+    "Genre":"chillout"
+  },
+  {
+    "id": "7",
+    "name": "1000 HITS Love",
+    "stream": "http://c2.auracast.net:8097/;stream/1",
+    "category": 0,
+    "Genre":"romantic"
+  },
+  {
+    "id": "8",
+    "name": "BEACH CHILL OUT RADIO",
+    "stream": "http://66.70.187.44:9146/;stream/1",
+    "category": 0,
+    "Genre":"easy listening"
+  },
+  {
+    "id": "9",
+    "name": "Dance Attack FM - The best EDM",
+    "stream": "http://uk4.internet-radio.com:8049/;stream",
+    "category": 0,
+    "Genre":"dance"
+  },
+  {
+    "id": "10",
+    "name": "DI Radio Digital Impulse - Blues Radio Player",
+    "stream": "http://5.39.71.159:8990/;stream/1",
+    "category": 0,
+    "Genre":"blues"
+  },
+  {
+    "id": "11",
+    "name": "Fatalistik Radio",
+    "stream": "http://192.95.39.65:5225/;stream/1",
+    "category": 0,
+    "Genre":"hip-hop"
+  },
+  {
+    "id": "12",
+    "name": "Deep House Radio",
+    "stream": "http://37.187.93.104:8589/;stream/1",
+    "category": 0,
+    "Genre":"house"
+  },
+  {
+    "id": "13",
+    "name": "The Zone - Dublin",
+    "stream": "http://uk1.internet-radio.com:8355/;stream",
+    "category": 0,
+    "Genre":"rock"
+  },
+  {
+    "id": "14",
+    "name": "RADIO B-ZONE",
+    "stream": "http://5.39.71.159:8000/;stream/1",
+    "category": 0,
+    "Genre":"dance"
+  },
+  {
+    "id": "15",
+    "name": "MELODIKOS RADIO",
+    "stream": "http://37.59.14.77:9078/;stream/1",
+    "category": 0,
+    "Genre":"greek"
+  },
+  {
+    "id": "16",
+    "name": "PARTY VIBE RADIO : JAZZ + BLUES + COUNTRY",
+    "stream": "http://www.partyviberadio.com:8020/;stream/1",
+    "category": 0,
+    "Genre":"jazz blues country"
+  },
+  {
+    "id": "17",
+    "name": "POP FOLK Radio",
+    "stream": "http://144.217.76.188:8260/;stream/1",
+    "category": 0,
+    "Genre":"pop folk"
+  },
+  {
+    "id": "18",
+    "name": "PARTY VIBE RADIO: DUBSTEP TRAP BASS",
+    "stream": "http://www.partyviberadio.com:8040/;stream/1",
+    "category": 0,
+    "Genre":"dance"
+  },
+  {
+    "id": "19",
+    "name": "1.FM – TOP 40",
+    "stream": "http://strm112.1.fm/top40_mobile_mp3",
+    "category": 0,
+    "Genre":"dance"
+  },
+  {
+    "id": "20",
+    "name": "Radio Free MMO",
+    "stream": "http://uk1.internet-radio.com:8355/;stream",
+    "category": 0,
+    "Genre":"industrial metal pop rock"
+  },
+  {
+    "id": "21",
+    "name": "Jazz Lounge ",
+    "stream": "http://51.255.235.165:5068/;stream/1",
+    "category": 0,
+    "Genre":"jazz"
+  },
+  {
+    "id": "22",
+    "name": "knklsturgis",
+    "stream": "http://us4.internet-radio.com:8223/;stream",
+    "category": 0,
+    "Genre":"rock"
+  },
+  {
+    "id": "23",
+    "name": "Rock Melodic Radio",
+    "stream": "http://37.59.14.77:8124/;stream/1",
+    "category": 0,
+    "Genre":"rock"
+  },
+  {
+    "id": "24",
+    "name": "Radio Romanian Hip Hop",
+    "stream": "http://89.39.189.2:8400/;stream/1",
+    "category": 0,
+    "Genre":"hip-hop urban rap"
+  },
+  {
+    "id": "25",
+    "name": "Mi-Soul Radio",
+    "stream": "http://87.98.130.255:8025/;stream/1",
+    "category": 0,
+    "Genre":"soul house reggae "
+  },
+  {
+    "id": "26",
+    "name": "Fuerza 94.3 FM",
+    "stream": "http://192.99.8.170:6133/;stream/1",
+    "category": 0,
+    "Genre":"latin rap hip-hop"
+  },
+  {
+    "id": "27",
+    "name": "HouseHold Radio",
+    "stream": "http://178.32.62.163:8877/;stream/1",
+    "category": 0,
+    "Genre":"house, disco"
+  }
+
+]
